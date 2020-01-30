@@ -30,3 +30,6 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io -y
 
 #pull hello-world for test
 sudo docker run hello-world
+
+#print docker version
+docker --version
